@@ -29,11 +29,13 @@ Use Word2Vec to generate word embeddings for each phrase.
 **3.Deep Learning Model**
 
 Create padded sequences from word embeddings.
+
 Train an LSTM model for sentiment classification.
 
 **4.Traditional Machine Learning**
 
 Extract features using TF-IDF.
+
 Train and evaluate models like Random Forest.
 
 **5.Evaluation**
