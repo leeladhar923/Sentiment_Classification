@@ -17,7 +17,9 @@ This project performs sentiment classification using text data. It integrates te
 **1.Import and Preprocess Data**
 
 Load dataset.
+
 Clean text by removing special characters, digits, and short words.
+
 Tokenize, remove stopwords, and lemmatize using SpaCy.
 
 **2.Generate Word Embeddings**
